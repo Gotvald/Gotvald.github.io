@@ -1,5 +1,2 @@
-# Kontrafakt - Lion 5
-Poznáš ten pocit ked si chceš prdnút,
-črevo mi ide uplne roztrhnút,
-z rici mi ide točená zmrzlina,
-hovno je velké jak černošská cicina.
+Keď sa slnko skloní na Horehroní, chce sa mi spievať, zomrieť aj žiť.
+Keď sa slnko skloní na Horehroní, túžim sa k nebu priblížiť.
