@@ -1,2 +1,8 @@
-Keď sa slnko skloní na Horehroní, chce sa mi spievať, zomrieť aj žiť.
-Keď sa slnko skloní na Horehroní, túžim sa k nebu priblížiť.
+To je ocinove auto,
+POVOLANIE SYN,
+Platis mamkinou kartou,
+POVOLANIE SYN,
+S 'podaj tasky' partou,
+POVOLANIE SYN
+Zdravi ta nadrbany Franto,
+POVOLANIE SYN!
