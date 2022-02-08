@@ -1,0 +1,46 @@
+.center {
+    text-align: center;
+}
+
+table, th, td {
+    border:1px solid black;
+}
+body {
+    background-color:#57a0d1;
+}
+
+p {
+    font-size: large;
+}
+
+h1 {
+    color:#091068;
+    font-size: 300%
+}
+
+h2 {
+    color:#181d63;
+}
+
+.colour {
+    color: rgb(255, 255, 255);
+}
+
+div a span:hover {
+    color: rgba(255, 251, 2, 0.884);
+}
+.center_ {
+    margin-left: auto;
+    margin-right: auto;
+}
+.A{
+    justify-content: center;
+    margin-left: 45%;
+    margin-bottom: auto;
+    margin-right: auto;
+    font-size: x-large;
+}
+
+
+
+
