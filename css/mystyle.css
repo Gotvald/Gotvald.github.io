@@ -22,22 +22,33 @@ h2 {
     color:#181d63;
 }
 
-.colour {
-    color: rgb(248, 169, 169);
-}
-
 div a span:hover {
     color: rgba(147, 190, 224, 0.884);
 }
-.center_ {
-    margin-left: auto;
-    margin-right: auto;
-}
-.A{
+
+.k{
+    text-align: right;
+    flex: 1;
     font-size: x-large;
-    color: #000000;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    margin: 0px 50px 0px 50px;
 }
 
+body div.k li{
+    display: inline-block;
+    list-style: none;
+}
 
+a{
+    box-sizing: border-box;
+    text-decoration: none;
+}
 
-
+.blby_horny_sidebar{
+    margin-left: 30px;
+    border-left: 2px solid rgb(0, 0, 0);
+    border-right: 2px solid rgb(0, 0, 0);
+    padding-left: 5px;
+    padding-right: 5px;
+}
