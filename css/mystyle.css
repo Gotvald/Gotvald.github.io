@@ -1,3 +1,10 @@
+main{
+    margin: 3cm;
+    padding: 1cm;
+    background-color: aqua;
+    border-radius: 1cm;
+}
+
 .center {
     text-align: center;
 }
@@ -7,6 +14,9 @@ table, th, td {
 }
 body {
     background-color:#57a0d1;
+    background-image: url(../img/pugs.jpg);
+    background-size: cover;
+    
 }
 
 p {
@@ -47,8 +57,11 @@ a{
 
 .blby_horny_sidebar{
     margin-left: 30px;
-    border-left: 2px solid rgb(0, 0, 0);
-    border-right: 2px solid rgb(0, 0, 0);
     padding-left: 5px;
     padding-right: 5px;
+    background-color: aqua;
+    border:2px solid rgb(0, 0, 0); ;
+    
 }
+
+
