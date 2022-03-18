@@ -24,6 +24,7 @@ body {
 
   #nav_bar {
     float: right;
+    margin-right: 15px;
   }
   
   #nav_bar li {
@@ -33,7 +34,6 @@ body {
   
   #nav_bar #sign_in {
     background: #4887ef; 
-    margin-right: 15px;
     padding: 7px 15px;
     border-radius: 8px; 
     font-weight: bold;
