@@ -50,7 +50,7 @@ body div.k li{
     list-style: none;
 }
 
-a{
+.SGE{
     box-sizing: border-box;
     text-decoration: none;
 }
@@ -64,4 +64,20 @@ a{
     
 }
 
+.eve img{
+    height:100%;
+    width:100%;
+}
 
+.evepriestor{
+    padding: 0%;
+}
+
+.suicide img{
+    height:80%;
+    width:100%;
+}
+
+.tabulka{
+    margin: auto;
+}
