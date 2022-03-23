@@ -61,23 +61,4 @@ body div.k li{
     padding-right: 5px;
     background-color: aqua;
     border:2px solid rgb(0, 0, 0); ;
-    
-}
-
-.eve img{
-    height:100%;
-    width:100%;
-}
-
-.evepriestor{
-    padding: 0%;
-}
-
-.suicide img{
-    height:80%;
-    width:100%;
-}
-
-.tabulka{
-    margin: auto;
 }
